@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Home"
+title: "Post Doctoral Fellow in Economics"
 author_profile: true
 ---
 
