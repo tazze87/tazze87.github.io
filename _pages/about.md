@@ -1,19 +1,14 @@
 ---
-layout: home
+layout: single
 permalink: /
 title: "Home"
 author_profile: true
 ---
-hello
 
-Publications
-------
+## Publications
 First
 
-
-Work in Progress
-------
+## Work in Progress
 First
 
 **Markdown generator**
-
