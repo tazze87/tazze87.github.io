@@ -1,12 +1,11 @@
 ---
+layout: home
 permalink: /
-title: ""
+title: "Home"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+hello
 
 Create content & metadata
 ------
