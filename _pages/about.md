@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 ## Publications
----
-Welfare and Competition in Expert Advice Markets
-*2024
-*Journal of Economic Behavior and Organization
+Welfare and Competition in Expert Advice Markets, **Journal of Economic Behavior and Organization**, 2024.
 
 ## Work in Progress
 First
