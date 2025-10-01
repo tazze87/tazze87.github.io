@@ -41,15 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
----
-# This front matter makes Jekyll process the file
----
-
-@import "minimal-mistakes/skins/default"; // keep your skin
-@import "minimal-mistakes";               // load base theme
-
-// 👇 your overrides after imports
-body {
-  background-color: #dde6d8;
-}
