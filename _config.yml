@@ -289,6 +289,24 @@ defaults:
       author_profile: true
       share: true
 
+# Unpublish every page under _pages by default
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      published: false
+      sitemap: false
+
+  - scope:
+      path: "_pages/about.md"   # <- use your actual home file path
+      type: pages
+    values:
+      published: true
+      sitemap: true
+      layout: single
+      author_profile: true
+      permalink: "/"
 
 # Sass/SCSS
 sass:
