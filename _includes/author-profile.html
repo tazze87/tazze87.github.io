@@ -27,13 +27,6 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.cv %}
-        <li>
-          <a href="{{ author.cv }}" target="_blank" rel="noopener noreferrer">
-            <i class="fas fa-fw fa-file"></i> CV
-          </a>
-        </li>
-      {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
@@ -74,6 +67,14 @@
       {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
+      {% endif %}
+
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-file"></i> CV
+          </a>
+        </li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
