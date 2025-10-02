@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 1. Welfare and Competition in Expert Advice Markets<br>
-    ***Journal of Economic Behavior and Organization***, 2024<br>
+    <h6>***Journal of Economic Behavior and Organization***, 2024</h6><br>
     <sub>with Matteo Ploner and Federico Vaccari</sub>
 
 2. Individual Cheating in the Lab: A New Measure and External Validity<br>
