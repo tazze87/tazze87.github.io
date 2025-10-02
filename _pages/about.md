@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 1. Welfare and Competition in Expert Advice Markets<br>
-    <h6>***Journal of Economic Behavior and Organization***, 2024</h6><br>
+    ***Journal of Economic Behavior and Organization***, 2024<br>
     <sub>with Matteo Ploner and Federico Vaccari</sub>
 
 2. Individual Cheating in the Lab: A New Measure and External Validity<br>
@@ -16,9 +16,15 @@ author_profile: true
 3. Benchmarking Information Aggregation in Experimental Markets<br>
     ***Economic Inquiry***, 2021<br>
     <sub>with Friederike Mengel and Ronald Peeters</sub>
+<br>
 
+## Completed Working Papers
+1. Personal Relative Position and Belief in Meritocracy<br>
+    <sub>with Patrick Lown and Friederike Mengel</sub>
 
-## Work in Progress
-1. 
+2. The Enemy of My Enemy: How Competition Mitigates Social Dilemmas<br>
+    <sub>with Alessandro Stringhi and Sara Gil-Gallen</sub>
 
+3. Income Inequality and Social Trust &nbsp; [R&R]<br>
+    <sub>with Patrick Lown and Friederike Mengel</sub> 
 
