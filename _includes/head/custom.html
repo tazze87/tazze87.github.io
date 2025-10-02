@@ -17,12 +17,13 @@
 
 <!-- Custom style overrides -->
 <style>
-.page__content a,
+.page__content a {
+  color: inherit;           /* same color as surrounding text */
+  text-decoration: none;    /* no underline by default */
+}
 .page__content a:hover,
-.page__content a:visited,
-.page__content a:active {
-  color: inherit !important;
-  text-decoration: none !important;
+.page__content a:focus {
+  text-decoration: underline; /* show underline only on hover/focus */
 }
 </style>
 
