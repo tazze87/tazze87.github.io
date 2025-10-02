@@ -11,11 +11,11 @@ author_profile: true
     <span style="font-size:14px;">with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a> and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a><br>
     <a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer">[Online Material]</a></span>
 
-2. <a href="https://link.springer.com/article/10.1007/s11238-021-09841-0" target="_blank" rel="noopener noreferrer">Individual Cheating in the Lab: A New Measure and External Validity</a><br>
+2. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"}<br>
     <span style="font-size:16px;">***Theory and Decision***, 2022<br>
     <a href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer">[Online Material]</a></span>
 
-1. <a href="https://onlinelibrary.wiley.com/doi/10.1111/ecin.13010" target="_blank" rel="noopener noreferrer">Benchmarking Information Aggregation in Experimental Markets</a><br>
+1. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"}<br>
     <span style="font-size:16px;">***Economic Inquiry***, 2021</span><br>
     <span style="font-size:14px;">with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a><br>
     <a href="https://osf.io/8v6um/?view_only=f1e53389450f44ae9c7994510b734a4a" target="_blank" rel="noopener noreferrer">[Online Material]</a></span>
