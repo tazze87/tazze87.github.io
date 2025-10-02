@@ -28,4 +28,13 @@
 </style>
 
 
+<style>
+  /* Hide footer links to sitemap and feed, but keep files for SEO */
+  .page__footer a[href$="sitemap.xml"],
+  .page__footer a[href$="/sitemap/"],
+  .page__footer a[href$="feed.xml"] {
+    display: none !important;
+  }
+</style>
+
 <!-- end custom head snippets -->
