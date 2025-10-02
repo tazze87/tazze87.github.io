@@ -22,7 +22,7 @@ author_profile: true
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer">Personal Relative Position and Belief in Meritocracy</a><br>
     <span style="font-size:14px;">with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a> and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a></span>    
 
-2. <a href="https://doi.org/10.31235/osf.io/xf43q" target="_blank" rel="noopener noreferrer">The Enemy of My Enemy: How Competition Mitigates Social Dilemmas</a><br>   
+2. <a href="https://doi.org/10.31235/osf.io/xf43q" target="_blank" rel="noopener noreferrer">The Enemy of My Enemy: How Competition Mitigates Social Dilemmas</a><br>
     <span style="font-size:14px;">with <a href="https://sites.google.com/view/alessandrostringhi" rel="noopener noreferrer">Alessandro Stringhi</a> and Sara Gil-Gallen</span>
 
 3. Income Inequality and Social Trust &nbsp; [R&R]<br>
