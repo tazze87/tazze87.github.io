@@ -11,7 +11,7 @@ author_profile: true
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a> 
       and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
-      <a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer">
+      &nbsp;<a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open"></i>
       </a>
       <a href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer">
