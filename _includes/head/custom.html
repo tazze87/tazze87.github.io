@@ -66,4 +66,25 @@
 
 
 
+<style>
+/* Default: links look like text, underline on hover */
+.page__content a { color: inherit; text-decoration: none; }
+
+/* Underline only *text* links on hover/focus — not icon-only links */
+.page__content a:hover:not(.icon-link),
+.page__content a:focus:not(.icon-link) { text-decoration: underline; }
+
+/* Icon-only links: never underline; make them inline-block so underline can't extend */
+.page__content a.icon-link {
+  text-decoration: none !important;
+  display: inline-block;
+  line-height: 0;         /* shrink inline box to icon height */
+  margin-left: 8px;       /* spacing between icons / preceding text */
+}
+.page__content a.icon-link:hover,
+.page__content a.icon-link:focus { text-decoration: none !important; }
+</style>
+
+
+
 <!-- end custom head snippets -->
