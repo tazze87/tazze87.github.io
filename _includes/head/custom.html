@@ -38,5 +38,23 @@
 </style>
 
 
+<style>
+/* Balance left and right gutters in Air theme */
+@media (min-width: 1024px) {
+  /* Center the whole page wrapper */
+  .layout--single .initial-content,
+  .layout--single .page {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 1200px !important;  /* total width: sidebar + content + right gutter */
+  }
+
+  /* Control the actual content column width */
+  .layout--single .page__content {
+    max-width: 960px !important;   /* widen text column, e.g. 900–1000px */
+  }
+}
+</style>
+
 
 <!-- end custom head snippets -->
