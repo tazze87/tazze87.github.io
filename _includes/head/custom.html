@@ -38,34 +38,5 @@
 </style>
 
 
-<style>
-/* --- Ghost right sidebar: desktop only --- */
-@media (min-width: 1024px) {
-  :root { --sidebar-width: 300px; }          /* Minimal Mistakes left sidebar ≈ 300px */
-
-  /* Make the content leave room on the right */
-  .page__content {
-    position: relative;
-    padding-right: var(--sidebar-width);
-  }
-
-  /* Optional vertical divider to mirror the left one */
-  .page__content::after {
-    content: "";
-    position: absolute;
-    top: 0; bottom: 0;
-    right: var(--sidebar-width);
-    width: 0;
-    border-left: 1px solid #eee;
-    pointer-events: none;
-  }
-}
-
-/* Tweak the max width if you want a wider text column */
-@media (min-width: 1024px) {
-  .page__content { max-width: 900px; }       /* adjust to taste (e.g., 960px, 1000px) */
-}
-</style>
-
 
 <!-- end custom head snippets -->
