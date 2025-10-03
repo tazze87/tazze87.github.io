@@ -38,5 +38,27 @@
 </style>
 
 
+<style>
+/* Make the inside gutters symmetric (left = right) */
+@media (min-width: 1024px) {
+  /* Tweak this value until the right blank space visually matches the left blank before the avatar */
+  :root { --inner-gutter: 2.0rem; } /* try 2.0rem; bump to 2.25rem or 2.5rem if needed */
+
+  /* Ensure the page stays centered and wide enough */
+  .layout--single .page {
+    margin: 0 auto;
+    max-width: 1200px;           /* adjust if you changed this elsewhere */
+    padding-left: var(--inner-gutter);
+    padding-right: var(--inner-gutter);
+  }
+
+  /* Do NOT add extra right padding to the content */
+  .layout--single .page__content {
+    padding-right: 0;
+    max-width: 900px;            /* optional: your preferred text width */
+  }
+}
+</style>
+
 
 <!-- end custom head snippets -->
