@@ -20,11 +20,19 @@ author_profile: true
     </span>
 
 
-3. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
+2. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
     <span style="font-size:16px;">***Theory and Decision***, 2022</span> 
-    <span style="font-size:14px;"> &nbsp; <a href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i></a></span>
+    <span style="font-size:14px;">
+    <a class="icon-link" href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/files/Cheaters_Is_Honesty_a_stable_Trait.mp4" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
 
-4. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"},
+
+
+3. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"},
     <span style="font-size:16px;">***Economic Inquiry***, 2021</span><br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
