@@ -39,22 +39,22 @@
 
 
 <style>
-/* Balance left and right gutters in Air theme */
+/* Center sidebar+content as one block, with equal empty space left and right */
 @media (min-width: 1024px) {
-  /* Center the whole page wrapper */
-  .layout--single .initial-content,
-  .layout--single .page {
+  /* Center the whole layout */
+  .layout--single .initial-content {
     margin-left: auto !important;
     margin-right: auto !important;
-    max-width: 1200px !important;  /* total width: sidebar + content + right gutter */
+    max-width: 1400px !important;   /* total width of sidebar + content */
   }
 
-  /* Control the actual content column width */
+  /* Widen the text area */
   .layout--single .page__content {
-    max-width: 960px !important;   /* widen text column, e.g. 900–1000px */
+    max-width: 1000px !important;   /* adjust to taste: 900–1100px works well */
   }
 }
 </style>
+
 
 
 <!-- end custom head snippets -->
