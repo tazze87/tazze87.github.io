@@ -11,15 +11,14 @@ author_profile: true
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a> 
       and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
-      &nbsp;
-      <a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer">
+      <a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
         <i class="fas fa-folder-open"></i>
       </a>
-      &nbsp;
-      <a href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer">
+      <a href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer" style="margin-left:8px;">
         <i class="fas fa-play-circle"></i>
       </a>
     </span>
+
 
 2. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
     <span style="font-size:16px;">***Theory and Decision***, 2022</span> 
