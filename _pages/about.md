@@ -7,15 +7,17 @@ author_profile: true
 
 ## Publications
 1. [Welfare and Competition in Expert Advice Markets](/files/APV-WelfareCompetition.pdf){:target="_blank" rel="noopener noreferrer"},
-   <span style="font-size:16px;">***Journal of Economic Behavior and Organization***, 2024</span><br>
-   <span style="font-size:14px;">
-   with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
-   and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
-   &nbsp;
-   <a href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer"> <i class="fas fa-folder-open"></i>
-   <a href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer"><i class="fas fa-play-circle"></i>
-   </a></a>
-   </span>
+    <span style="font-size:16px;">***Journal of Economic Behavior and Organization***, 2024</span><br>
+    <span style="font-size:14px;">
+      with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
+      and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
+      <a class="icon-link" href="https://osf.io/4cfwg/" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
+    </span>
 
 
 3. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
