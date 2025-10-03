@@ -26,7 +26,7 @@ author_profile: true
     <a class="icon-link" href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
-      <a class="icon-link" href="/files/Cheaters_Is_Honesty_a_stable_Trait.mp4" target="_blank" rel="noopener noreferrer">
+      <a class="icon-link" href="/files/Cheaters_Is_Honesty_a_Stable_Trait.mp4" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
 
@@ -37,11 +37,14 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
     and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a>
-    &nbsp;
-   <a href="https://osf.io/8v6um/?view_only=f1e53389450f44ae9c7994510b734a4a" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
-   </a>
-   </span>
-<br>
+    <a class="icon-link" href="https://osf.io/8v6um/?view_only=f1e53389450f44ae9c7994510b734a4a" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/files/Testing__Wisdom_of_Crowd_.mp4" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
+    </span>
+
 
 ## Working Papers
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer">Personal Relative Position and Belief in Meritocracy</a><br>
