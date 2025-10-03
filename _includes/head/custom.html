@@ -39,18 +39,10 @@
 
 
 <style>
-/* Center sidebar+content as one block, with equal empty space left and right */
+/* Make the central text (publications, working papers, etc.) wider */
 @media (min-width: 1024px) {
-  /* Center the whole layout */
-  .layout--single .initial-content {
-    margin-left: auto !important;
-    margin-right: auto !important;
-    max-width: 1400px !important;   /* total width of sidebar + content */
-  }
-
-  /* Widen the text area */
   .layout--single .page__content {
-    max-width: 1000px !important;   /* adjust to taste: 900–1100px works well */
+    max-width: 1000px !important; /* default is ~720px, try 900–1100px */
   }
 }
 </style>
