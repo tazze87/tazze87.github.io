@@ -13,8 +13,8 @@ author_profile: true
 </a> </span>
 
 2. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
-    <span style="font-size:16px;">***Theory and Decision***, 2022 &nbsp;</span> 
-    <span style="font-size:14px;"><a href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i></a></span>
+    <span style="font-size:16px;">***Theory and Decision***, 2022;</span> 
+    <span style="font-size:14px;"> &nbsp; <a href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i></a></span>
 
 3. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"},
     <span style="font-size:16px;">***Economic Inquiry***, 2021</span><br>
