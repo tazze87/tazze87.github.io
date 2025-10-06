@@ -23,7 +23,7 @@ author_profile: true
 2. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
     <span style="font-size:16px;">***Theory and Decision***, 2022</span> 
     <span style="font-size:14px;">
-    <a class="icon-link" href="https://osf.io/deg6q/files/" target="_blank" rel="noopener noreferrer">
+    <a class="icon-link" href="files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
       <a class="icon-link" href="/files/Cheaters_Is_Honesty_a_Stable_Trait.mp4" target="_blank" rel="noopener noreferrer">
