@@ -57,12 +57,12 @@ author_profile: true
    </span>
 
 
-2. <a href="https://doi.org/10.31235/osf.io/xf43q" target="_blank" rel="noopener noreferrer">The Enemy of My Enemy: How Competition Mitigates Social Dilemmas</a><br>
+2. [The Enemy of My Enemy: How Competition Mitigates Social Dilemmas](/files/The_enemy_of_my_enemy.pdf){:target="_blank" rel="noopener noreferrer"},<br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a>
     &nbsp; 
-    <a href="https://osf.io/wpd73/?view_only=89cb0c5cdb3a4f72a8f1aaaf1f69181c" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
+    <a href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
     </a>
     </span>
 
