@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-1. Income Inequality and Social Trust, 
+1. [Income Inequality and Social Trust](/files/ALM_Inequality_Trust.pdf){:target="_blank" rel="noopener noreferrer"}, 
     <span style="font-size:16px;">accepted at ***Economics Letters***</span><br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
