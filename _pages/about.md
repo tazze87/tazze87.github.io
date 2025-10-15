@@ -55,7 +55,7 @@ author_profile: true
 
 
 ## Working Papers
-1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer">Personal Relative Position and Belief in Meritocracy</a><br>
+1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer">Personal Relative Position and Belief in Meritocracy</a>, 2025<br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
@@ -65,7 +65,7 @@ author_profile: true
    </span>
 
 
-2. [The Enemy of My Enemy: How Competition Mitigates Social Dilemmas](/files/The_enemy_of_my_enemy.pdf){:target="_blank" rel="noopener noreferrer"},<br>
+2. [The Enemy of My Enemy: How Competition Mitigates Social Dilemmas](/files/The_enemy_of_my_enemy.pdf){:target="_blank" rel="noopener noreferrer"}, 2025<br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a>
