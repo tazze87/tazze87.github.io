@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-1. [Income Inequality and Social Trust](/files/ALM_Inequality_Trust.pdf){:target="_blank" rel="noopener noreferrer"}, 
+1. [Income Inequality and Social Trust](/files/ALM_Inequality_Trust.pdf){:target="_blank" rel="noopener noreferrer"}<br> 
     <span style="font-size:16px;">***Economics Letters***, 2025</span><br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
@@ -18,7 +18,7 @@ author_profile: true
    </span>
 
 
-2. [Welfare and Competition in Expert Advice Markets](/files/APV-WelfareCompetition.pdf){:target="_blank" rel="noopener noreferrer"},
+2. [Welfare and Competition in Expert Advice Markets](/files/APV-WelfareCompetition.pdf){:target="_blank" rel="noopener noreferrer"}<br>
     <span style="font-size:16px;">***Journal of Economic Behavior and Organization***, 2024</span><br>
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
@@ -32,7 +32,7 @@ author_profile: true
     </span>
 
 
-3. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"},
+3. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"}<br>
     <span style="font-size:16px;">***Theory and Decision***, 2022</span> 
     <span style="font-size:14px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
@@ -43,7 +43,7 @@ author_profile: true
       </a>
 
 
-4. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"},
+4. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"}<br>
     <span style="font-size:16px;">***Economic Inquiry***, 2021</span><br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
