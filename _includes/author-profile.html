@@ -77,6 +77,14 @@
         </li>
       {% endif %}
 
+      {% if author.institution %}
+        <li>
+          <a href="{{ author.institution }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-university icon-pad-right"></i><span>IMT Lucca</span>
+          </a>
+        </li>
+      {% endif %}
+
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
