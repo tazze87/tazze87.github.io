@@ -19,7 +19,7 @@ author_profile: true
 
 
 2. [Welfare and Competition in Expert Advice Markets](/files/APV-WelfareCompetition.pdf){:target="_blank" rel="noopener noreferrer"}<br>
-    <span style="font-size:16px;">*Journal of Economic Behavior and Organization*, 2024</span><br>
+    <span style="font-size:16px;">**Journal of Economic Behavior and Organization**, 2024</span><br>
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
       and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
@@ -33,7 +33,7 @@ author_profile: true
 
 
 3. [Individual Cheating in the Lab: A New Measure and External Validity](/files/A-CheatingLabvField.pdf){:target="_blank" rel="noopener noreferrer"}<br>
-    <span style="font-size:16px;">***Theory and Decision***, 2022</span> 
+    <span style="font-size:16px;">**Theory and Decision**, 2022</span> 
     <span style="font-size:14px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
@@ -44,7 +44,7 @@ author_profile: true
 
 
 4. [Benchmarking Information Aggregation in Experimental Markets](/files/AMP-InfoAgg.pdf){:target="_blank" rel="noopener noreferrer"}<br>
-    <span style="font-size:16px;">***Economic Inquiry***, 2021</span><br>
+    <span style="font-size:16px;">**Economic Inquiry**, 2021</span><br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
     and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a>
