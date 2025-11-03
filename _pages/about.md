@@ -19,7 +19,7 @@ author_profile: true
 
 
 2. [Welfare and Competition in Expert Advice Markets](/files/APV-WelfareCompetition.pdf){:target="_blank" rel="noopener noreferrer"}<br>
-    <span style="font-size:16px;">***Journal of Economic Behavior and Organization***, 2024</span><br>
+    <span style="font-size:16px;">*Journal of Economic Behavior and Organization*, 2024</span><br>
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
       and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
