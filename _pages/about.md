@@ -79,3 +79,22 @@ author_profile: true
     <a href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
     </a>
     </span>
+
+## Work in Progress
+1. Taming the Tap: A Field Experiment of Water Conservation<br>
+    <span style="font-size:14px;">
+    with <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
+    and <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
+    </span>
+
+2. Fooling Yourself: How Narratives Shape Beliefs<br>
+    <span style="font-size:14px;">
+    with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
+    <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
+    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
+    </span>
+
+3. Cheating and Competition<br>
+    <span style="font-size:14px;">
+    with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
+    </span>
