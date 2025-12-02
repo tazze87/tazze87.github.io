@@ -81,7 +81,7 @@ author_profile: true
     </span>
 
 ## Work in Progress
-1. Taming the Tap: A Field Experiment of Water Conservation<br>
+1. Taming the Tap: A Field Experiment on Water Conservation<br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
     and <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
