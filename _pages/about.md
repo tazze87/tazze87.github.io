@@ -73,8 +73,6 @@ author_profile: true
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
    &nbsp;
-   <a href="https://osf.io/9mhvg" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
-   </a>
    <a class="icon-link" href="/files/The_Meritocracy_Puzzle.mp4" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
    </a>
