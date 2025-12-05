@@ -5,6 +5,8 @@ title: "Post Doctoral Fellow"
 author_profile: true
 ---
 
+# <small>in Economics</small>
+
 ## Publications
 
 1. [Income Inequality and Social Trust](/files/ALM_Inequality_Trust.pdf){:target="_blank" rel="noopener noreferrer"}<br> 
@@ -80,7 +82,7 @@ author_profile: true
     </a>
     </span>
 
-## Work in Progress (data collected) ##
+## Work in Progress <small>(data collected)</small>
 1. Taming the Tap: A Field Experiment on Water Conservation<br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
