@@ -9,7 +9,9 @@ author_profile: true
 
 ## Publications
 
-1. [Income Inequality and Social Trust](/files/ALM_Inequality_Trust.pdf){:target="_blank" rel="noopener noreferrer"}<br> 
+1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+     Income Inequality and Social Trust
+   </a><br> 
     <span style="font-size:16px;">**Economics Letters**, 2025</span><br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
