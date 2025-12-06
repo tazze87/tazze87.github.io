@@ -221,7 +221,7 @@ stratEst.check(model.selected, chi.tests=TRUE, verbose = TRUE, bs.samples=10000)
 
 ######   ALL SUPERGAMES   ####
 #########################################################################
-all_data_for_strategies <- read.table("C:/Users/tazze/Dropbox/Work/SAG_Enemy/Enemy_Andrea/Andrea_analisi/strategy_estimation_manuscript/all_data_for_strategies.txt", 
+all_data_for_strategies <- read.table("your_path/all_data_for_strategies.txt", 
                                   header = TRUE,    # first row has variable names
                                   sep = "\t")       # tab-separated
 all.data.SGA <- stratEst.data(data = all_data_for_strategies, choice = "choice",
