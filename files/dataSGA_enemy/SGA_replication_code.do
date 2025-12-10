@@ -25,13 +25,18 @@ restore
 // Test for Figure 1
 * first rounds
 bysort treatment: sum coop_1
-meprobit coop_1 i.treatment || id :, vce(cluster id)
-meprobit coop_1 i.treatment##c.supergame || id:, vce(cluster id)
-lincom c.supergame + 1.treatment#c.supergame
+quietly meprobit coop_1 i.treatment || id :, vce(cluster id)
+margins, dydx(treatment) predict(pr fixedonly)
+quietly meprobit coop_1 i.treatment##c.supergame || id:, vce(cluster id)
+margins, dydx(supergame) at(treatment = (0 1)) predict(pr fixedonly) post
+lincom _b[supergame:2._at] - _b[supergame:1._at]
 * all rounds
 bysort treatment: sum cooperate
-meprobit cooperate i.treatment || id:, vce(cluster id)
-meprobit cooperate i.treatment##c.supergame || id:, vce(cluster id)
+quietly meprobit cooperate i.treatment || id:, vce(cluster id)
+margins, dydx(treatment) predict(pr fixedonly)
+quietly meprobit cooperate i.treatment##c.supergame || id:, vce(cluster id)
+margins, dydx(supergame) at(treatment = (0 1)) predict(pr fixedonly) post
+lincom _b[supergame:2._at] - _b[supergame:1._at]
 *********************************************************************
 
 
