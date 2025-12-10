@@ -1,10 +1,9 @@
 ---
 layout: single
 permalink: /
-title: "Post Doctoral Fellow"
+title: "Post Doctoral Fellow <sub>in Economics</sub>"
 author_profile: true
 ---
-# <small>in Economics</small>
 
 
 ## Publications
