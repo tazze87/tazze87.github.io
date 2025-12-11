@@ -15,7 +15,7 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
-   <a class="icon-link" href="/files/Inequality_Social_Trust.mp4" target="_blank" rel="noopener noreferrer">
+   <a class="icon-link" href="/video.html?src=/files/Inequality_Social_Trust.mp4&title=Income%20Inequality%20and%20Social%20Trust" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
    </span>
