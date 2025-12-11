@@ -31,7 +31,7 @@ author_profile: true
       <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAPV_welfare" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
-      <a class="icon-link" href="/files/The_Competition_Paradox.mp4" target="_blank" rel="noopener noreferrer">
+      <a class="icon-link" href="/video.html?src=/files/The_Competition_Paradox.mp4&title=Welfare%20and%20Competition%20in%20Expert%20Advice%20Markets" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
     </span>
@@ -45,7 +45,7 @@ author_profile: true
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
-      <a class="icon-link" href="/files/Cheaters_Is_Honesty_a_Stable_Trait.mp4" target="_blank" rel="noopener noreferrer">
+      <a class="icon-link" href="/video.html?src=/files/Cheaters_Is_Honesty_a_Stable_Trait.mp4&title=Individual%20Cheating%20in%20the%20Lab:%20A%20New%20Measure%20and%20External%20Validity" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
 
@@ -60,7 +60,7 @@ author_profile: true
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAMP_infoagg" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
-      <a class="icon-link" href="/files/Testing__Wisdom_of_Crowd_.mp4" target="_blank" rel="noopener noreferrer">
+      <a class="icon-link" href="/video.html?src=/files/Testing__Wisdom_of_Crowd_.mp4&title=Benchmarking%20Information%20Aggregation%20in%20Experimental%20Markets" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
     </span>
@@ -71,7 +71,7 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
-   <a class="icon-link" href="/files/The_Meritocracy_Puzzle.mp4" target="_blank" rel="noopener noreferrer">
+   <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
    </a>
    </span>
