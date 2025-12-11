@@ -83,10 +83,14 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a>
-         &nbsp;
-    <a href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer"><i class="fas fa-folder-open"></i>
-    </a>
+         <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=The%20Enemy%20of%20My%20Enemy" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
     </span>
+   
 
 ## Work in Progress <small>(data collected)</small>
 1. <a style="font-size:16px;">Taming the Tap: A Field Experiment on Water Conservation</a><br>
