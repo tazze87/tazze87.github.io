@@ -1,0 +1,47 @@
+---
+layout: default
+title: "Video"
+permalink: /video.html
+---
+
+<div class="page-content" style="max-width: 900px; margin: 2rem auto;">
+  <h1 id="video-title" style="margin-bottom: 0.75rem; font-size: 1.6rem;"></h1>
+
+  <p style="font-style: italic; margin-bottom: 1.5rem;">
+    Disclaimer: this video has been generated using AI tools and may contain errors or inaccuracies. It is intended as an informal companion to the paper, not a definitive or exhaustive explanation.
+  </p>
+
+  <video id="videoPlayer" controls style="width: 100%; max-width: 100%; border-radius: 4px;">
+    Your browser does not support the video tag.
+  </video>
+
+  <p id="fallback-text" style="margin-top: 1.5rem; display: none;">
+    No video source was provided. Please go back to
+    <a href="{{ site.baseurl }}/">the main page</a> and try again.
+  </p>
+</div>
+
+<script>
+  (function () {
+    const params = new URLSearchParams(window.location.search);
+    const src = params.get('src');
+    const title = params.get('title');
+
+    if (title) {
+      document.getElementById('video-title').textContent = decodeURIComponent(title);
+    } else {
+      document.getElementById('video-title').textContent = 'Video';
+    }
+
+    if (src) {
+      const video = document.getElementById('videoPlayer');
+      const source = document.createElement('source');
+      source.src = src;
+      source.type = 'video/mp4';
+      video.appendChild(source);
+    } else {
+      document.getElementById('videoPlayer').style.display = 'none';
+      document.getElementById('fallback-text').style.display = 'block';
+    }
+  })();
+</script>
