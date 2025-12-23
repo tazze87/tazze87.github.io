@@ -83,16 +83,49 @@
 </style>
 
 
-<!-- Font for everything -->
+<!-- Font for everything (including sidebar + titles) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+
 <style>
+  :root{
+    --aa-sans: "Atkinson Hyperlegible",
+               system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+
+  /* Base text */
   html, body {
-    font-family: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    font-family: var(--aa-sans);
+  }
+
+  /* Headings / titles */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title,
+  .page__hero-title {
+    font-family: var(--aa-sans) !important;
+  }
+
+  /* Sidebar */
+  .sidebar,
+  .author__name,
+  .author__bio,
+  .author__urls,
+  .nav__list,
+  .nav__title {
+    font-family: var(--aa-sans) !important;
+  }
+
+  /* Masthead / site title / top nav */
+  .masthead,
+  .site-title,
+  .site-title a,
+  .greedy-nav,
+  .greedy-nav a {
+    font-family: var(--aa-sans) !important;
   }
 </style>
-
 
 
 
