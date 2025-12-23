@@ -130,20 +130,26 @@
 </style>
 
 <style>
-  /* Keep top nav links (menu items) in body font — EXCEPT the site title */
-  .greedy-nav a:not(.site-title) {
+  /* Menu items only (do not touch the site title) */
+  nav.greedy-nav .visible-links a,
+  nav.greedy-nav .hidden-links a,
+  nav.greedy-nav button,
+  nav.greedy-nav .greedy-nav__toggle,
+  nav.greedy-nav .search__toggle {
     font-family: var(--aa-body) !important;
   }
 
-  /* Masthead site title = serif (match section titles) */
-  .greedy-nav a.site-title,
-  .site-title,
-  .site-title:visited {
+  /* Site title (top-left) = serif (match section titles and sidebar name) */
+  nav.greedy-nav .site-title,
+  nav.greedy-nav .site-title:visited,
+  nav.greedy-nav .site-title a,
+  nav.greedy-nav .site-title a:visited {
     font-family: var(--aa-title) !important;
-    font-weight: 700;
+    font-weight: 700 !important;
     letter-spacing: 0;
   }
 </style>
+
 
 
 
