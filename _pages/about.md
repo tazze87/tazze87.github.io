@@ -1,12 +1,12 @@
 ---
 layout: single
 permalink: /
-title: "Post Doctoral Fellow <small>in Economics</small>"
+title: " Post Doctoral Fellow <small>in Economics</small>"
 author_profile: true
 ---
 
 
-## Publications
+##  Publications
 
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Income Inequality and Social Trust
@@ -66,7 +66,7 @@ author_profile: true
     </span>
 
 
-## Working Papers
+##  Working Papers
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:16px;">Personal Relative Position and Belief in Meritocracy, 2025</a><br>
     <span style="font-size:15px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
@@ -92,7 +92,7 @@ author_profile: true
     </span>
    
 
-## Work in Progress <small>(data collected)</small>
+##  Work in Progress <small>(data collected)</small>
 1. <a style="font-size:16px;">Taming the Tap: A Field Experiment on Water Conservation</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
