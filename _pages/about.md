@@ -78,7 +78,7 @@ author_profile: true
 
 
 2. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
-     The Enemy of My Enemy: How Competition Mitigates Social Dilemmas, 2025
+     The Enemy of My Enemy: How Competition Mitigates Social Dilemmas, 2025 (<a style="font-style: italic>under review</a>)
    </a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
@@ -93,7 +93,7 @@ author_profile: true
    
 
 ##  Work in Progress <small>(data collected)</small>
-1. <a style="font-size:16px;">Taming the Tap: A Field Experiment on Water Conservation</a><br>
+1. <a style="font-size:16px;">Conservation Without Substitution: Experimental Evidence on Residential Water Demand</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
     and <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
