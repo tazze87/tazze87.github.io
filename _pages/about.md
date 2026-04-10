@@ -92,20 +92,20 @@ author_profile: true
    
 
 ##  Work in Progress <small>(data collected)</small>
-1. <a style="font-size:16px;">Conservation Without Substitution: Experimental Evidence on Residential Water Demand</a><br>
+1. <span style="font-size:16px;">Conservation Without Substitution: Experimental Evidence on Residential Water Demand</span><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
     </span>
 
-2. <a style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</a><br>
+2. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
     <span style="font-size:15px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
     and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     </span>
 
-3. <a style="font-size:16px;">Cheating and Competition</a><br>
+3. <span style="font-size:16px;">Cheating and Competition</span><br>
     <span style="font-size:15px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
