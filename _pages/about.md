@@ -78,7 +78,7 @@ author_profile: true
 
 
 2. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
-     The Enemy of My Enemy: How Competition Mitigates Social Dilemmas, 2025</a> <span style="font-style: italic; font-size:14px;">(under review)<br>
+     The Enemy of My Enemy: How Competition Mitigates Social Dilemmas, 2025</a> <span style="font-style: italic; font-size:15px;">(under review)<br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a>
