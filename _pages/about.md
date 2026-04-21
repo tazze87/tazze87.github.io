@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##  Publications
+<h2 style="text-align:center;">Publications</h2>
 
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Income Inequality and Social Trust
@@ -67,7 +67,7 @@ author_profile: true
 
 <br>
 
-##  Working Papers
+<h2 style="text-align:center;">Working Papers</h2>
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:16px;">Personal Relative Position and Belief in Meritocracy, 2025</a><br>
     <span style="font-size:15px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
@@ -94,7 +94,7 @@ author_profile: true
    
 <br>
 
-##  Work in Progress <small>(data collected)</small>
+<h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
 1. <span style="font-size:16px;">Conservation Without Substitution: Experimental Evidence on Residential Water Demand</span><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
