@@ -14,7 +14,7 @@ author_profile: true
     <span style="font-size:16px;">**Economics Letters**, 2025</span><br>
     <span style="font-size:15px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
-   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
+   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
    <a class="icon-link" href="/video.html?src=/files/Inequality_Social_Trust.mp4&title=Income%20Inequality%20and%20Social%20Trust" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
@@ -27,7 +27,7 @@ author_profile: true
     <span style="font-size:16px;">**Journal of Economic Behavior and Organization**, 2024</span><br>
     <span style="font-size:15px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
-      and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a>
+      and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a><br>
       <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAPV_welfare" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
@@ -40,7 +40,7 @@ author_profile: true
 3. <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Individual Cheating in the Lab: A New Measure and External Validity
    </a><br>
-    <span style="font-size:16px;">**Theory and Decision**, 2022</span> 
+    <span style="font-size:16px;">**Theory and Decision**, 2022</span><br>
     <span style="font-size:15px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
@@ -56,7 +56,7 @@ author_profile: true
     <span style="font-size:16px;">**Economic Inquiry**, 2021</span><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
-    and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a>
+    and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a><br>
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAMP_infoagg" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
