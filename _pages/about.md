@@ -65,6 +65,7 @@ author_profile: true
       </a>
     </span>
 
+<br>
 
 ##  Working Papers
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:16px;">Personal Relative Position and Belief in Meritocracy, 2025</a><br>
@@ -91,6 +92,7 @@ author_profile: true
          <br>Revision requested at Journal of Economic Behavior & Organization
     </span>
    
+<br>
 
 ##  Work in Progress <small>(data collected)</small>
 1. <span style="font-size:16px;">Conservation Without Substitution: Experimental Evidence on Residential Water Demand</span><br>
