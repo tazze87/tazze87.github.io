@@ -179,7 +179,7 @@ model.full_set <- stratEst.model(
   sample.id = "treatment",
   se = "bootstrap",             # get standard errors from nonparametric block-bootstrap
   bs.samples = 10000,           # permutations
-  quantiles = c(0.005, 0.025, 0.05, 0.5, 0.95, 0.975, 0.995),
+  quantiles = c(0.01, 0.05, 0.1, 0.5),
   verbose = TRUE,
 )
 
@@ -203,7 +203,7 @@ model.selected <- stratEst.model(
   sample.id = "treatment",
   se = "bootstrap",             # get standard errors from nonparametric block-bootstrap
   bs.samples = 10000,           # permutations
-  quantiles = c(0.005, 0.025, 0.05, 0.5, 0.95, 0.975, 0.995),
+  quantiles = c(0.01, 0.05, 0.1, 0.5),
   verbose = TRUE,
 )
 print(round(do.call(rbind, model.selected$shares), 3))  # point estimates
@@ -239,7 +239,7 @@ model.all_decisions <- stratEst.model(
   sample.id = "treatment",
   se = "bootstrap",             # get standard errors from nonparametric block-bootstrap
   bs.samples = 10000,           # permutations
-  quantiles = c(0.005, 0.025, 0.05, 0.5, 0.95, 0.975, 0.995),
+  quantiles = c(0.01, 0.05, 0.1, 0.5),
   verbose = TRUE,
 )
 print(round(do.call(rbind, model.all_decisions$shares), 3))  # point estimates
@@ -260,7 +260,7 @@ model.selected.all.decision <- stratEst.model(
   sample.id = "treatment",
   se = "bootstrap",             # get standard errors from nonparametric block-bootstrap
   bs.samples = 10000,           # permutations
-  quantiles = c(0.005, 0.025, 0.05, 0.5, 0.95, 0.975, 0.995),
+  quantiles = c(0.01, 0.05, 0.1, 0.5),
   verbose = TRUE,
 )
 print(round(do.call(rbind, model.selected.all.decision$shares), 3))  # point estimates
@@ -288,7 +288,7 @@ selected.with.trembles <- stratEst.model(
   r.trembles = "strategies",
   se = "bootstrap",             # get standard errors from nonparametric block-bootstrap
   bs.samples = 10000,           # permutations
-  quantiles = c(0.005, 0.025, 0.05, 0.5, 0.95, 0.975, 0.995),
+  quantiles = c(0.01, 0.05, 0.1, 0.5),
   verbose = TRUE,
 )
 print(round(do.call(rbind, selected.with.trembles$shares), 3))  # point estimates
