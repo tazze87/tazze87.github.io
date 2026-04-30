@@ -86,7 +86,7 @@ author_profile: true
          <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
-      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=The%20Enemy%20of%20My%20Enemy" target="_blank" rel="noopener noreferrer">
+      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
          <br>R+R at Journal of Economic Behavior & Organization
