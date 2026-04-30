@@ -79,7 +79,7 @@ author_profile: true
 
 
 2. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
-     The Enemy of My Enemy: How Competition Mitigates Social Dilemmas, 2025</a><br>
+     Unity Through Rivalry: How Competition Mitigates Social Dilemmas, 2026</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
@@ -89,7 +89,7 @@ author_profile: true
       <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=The%20Enemy%20of%20My%20Enemy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
-         <br>Revision requested at Journal of Economic Behavior & Organization
+         <br>R+R at Journal of Economic Behavior & Organization
     </span>
    
 <br>
