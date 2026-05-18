@@ -89,7 +89,7 @@ author_profile: true
       <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
-         <br>R+R at **Journal of Economic Behavior and Organization**
+         <br>*R+R at **Journal of Economic Behavior and Organization***
     </span>
    
 <br>
@@ -99,6 +99,7 @@ author_profile: true
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
+         <br>*(Draft in preparation)*
     </span>
 
 2. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
