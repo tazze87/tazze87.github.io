@@ -93,13 +93,12 @@ author_profile: true
     </span>
    
 <br>
-
 <h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
-1. <span style="font-size:16px;">Beyond the Margin: Targeted Conservation and Household Water Demand</span><br>
+1. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+     Beyond the Margin: Targeted Conservation and Household Water Demand</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
-         <br>*(Draft in preparation)*
     </span>
 
 2. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
