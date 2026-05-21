@@ -91,17 +91,18 @@ author_profile: true
       </a>
          <br>(*R+R* at **Journal of Economic Behavior and Organization**)
     </span>
-   
-<br>
-<h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
-1. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+
+
+3. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Beyond the Margin: Targeted Conservation and Household Water Demand</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
     </span>
-
-2. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
+   
+<br>
+<h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
+1. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
     <span style="font-size:15px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
@@ -109,7 +110,7 @@ author_profile: true
     <br>*(Draft in preparation)*
     </span>
 
-3. <span style="font-size:16px;">Cheating and Competition</span><br>
+2. <span style="font-size:16px;">Cheating and Competition</span><br>
     <span style="font-size:15px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
