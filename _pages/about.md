@@ -75,7 +75,7 @@ author_profile: true
    <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
    </a>
-   <br>*(Draft in preparation)*
+   <br>*(New draft in preparation)*
    </span>
 
 
