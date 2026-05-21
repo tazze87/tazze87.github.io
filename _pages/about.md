@@ -98,9 +98,13 @@ author_profile: true
      Beyond the Margin: Targeted Conservation and Household Water Demand</a><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
-    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a>
+    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a><br>
+    <a class="icon-link" href="/video.html?src=/files/Taming_the_Tap.mp4&title=Beyond%20The%20Margin:%20Targeted%20Conservation%20and%20Household%20Water%20Demand" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+    </a>
     </span>
-   
+
+
 <br>
 <h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
 1. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
