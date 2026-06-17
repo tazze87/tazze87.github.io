@@ -104,18 +104,18 @@ author_profile: true
     </a>
     </span>
 
-
-<br>
-<h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
-1. <span style="font-size:16px;">Fooling Yourself: How Narratives Shape Beliefs</span><br>
+4. <a href="/files/APSS_Narratives.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+     Fooling Yourself: How Narratives Shape Beliefs</a><br>
     <span style="font-size:15px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
     and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
-    <br>*(Draft in preparation)*
     </span>
 
-2. <span style="font-size:16px;">Cheating and Competition</span><br>
+
+<br>
+<h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
+1. <span style="font-size:16px;">Cheating and Competition</span><br>
     <span style="font-size:15px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
