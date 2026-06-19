@@ -8,6 +8,21 @@ author_profile: true
 
 <h2 style="text-align:center;">Publications</h2>
 
+1. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+     Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a><br>
+     <span style="font-size:16px;">conditionally accepted at **Journal of Economic Behavior and Organization**, 2026</span><br>
+    <span style="font-size:15px;">
+    with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
+    and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
+         <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
+    </span>
+    
+
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Income Inequality and Social Trust
    </a><br> 
@@ -80,22 +95,7 @@ author_profile: true
    </span>
 
 
-2. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
-     Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a>, 2026<br>
-    <span style="font-size:15px;">
-    with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
-    and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
-         <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-folder-open" aria-hidden="true"></i>
-      </a>
-      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-play-circle" aria-hidden="true"></i>
-      </a>
-         <br>(*R+R* at **Journal of Economic Behavior and Organization**)
-    </span>
-
-
-3. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+2. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Beyond the Margin: Targeted Conservation and Household Water Demand</a>, 2026<br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
@@ -105,7 +105,7 @@ author_profile: true
     </a>
     </span>
 
-4. <a href="/files/APSS_Narratives.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+2. <a href="/files/APSS_Narratives.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Fooling Yourself: How Narratives Shape Beliefs</a>, 2026<br>
     <span style="font-size:15px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
