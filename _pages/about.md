@@ -10,7 +10,7 @@ author_profile: true
 
 1. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a><br>
-     <span style="font-size:16px;">conditionally accepted at **Journal of Economic Behavior and Organization**, 2026</span><br>
+     <span style="font-size:16px;">*conditionally accepted at* **Journal of Economic Behavior and Organization**, 2026</span><br>
     <span style="font-size:15px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
