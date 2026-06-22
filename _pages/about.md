@@ -8,8 +8,20 @@ author_profile: true
 
 <h2 style="text-align:center;">Publications</h2>
 
+1. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
+     Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a><br>
+     <span style="font-size:16px;">*accepted at* **Journal of Economic Behavior and Organization**, 2026</span><br>
+    <span style="font-size:15px;">
+    with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
+    and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
+         <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
+    </span>  
 
-    
 
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Income Inequality and Social Trust
@@ -71,21 +83,6 @@ author_profile: true
 <br>
 
 <h2 style="text-align:center;">Working Papers</h2>
-
-1. <a href="/files/The_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
-     Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a><br>
-     <span style="font-size:16px;">*conditionally accepted at* **Journal of Economic Behavior and Organization**, 2026</span><br>
-    <span style="font-size:15px;">
-    with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
-    and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
-         <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataSGA_enemy" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-folder-open" aria-hidden="true"></i>
-      </a>
-      <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-play-circle" aria-hidden="true"></i>
-      </a>
-    </span>
-
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:16px;">
      Personal Relative Position and Belief in Meritocracy</a>, 2025<br>
