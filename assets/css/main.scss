@@ -44,6 +44,6 @@
 
 
 /* Decrease font size of ordered-list numbers */
-.page__content ol li::marker {
-  font-size: 0.75em !important;
+ol > li::marker {
+  font-size: 0.75rem !important;
 }
