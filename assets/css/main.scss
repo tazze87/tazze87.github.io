@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+;
+
+/* Decrease font size of ordered-list numbers */
+.page__content ol li::marker {
+  font-size: 0.85em;
+}
