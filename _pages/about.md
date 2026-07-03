@@ -85,7 +85,7 @@ author_profile: true
 <h2 style="text-align:center;">Working Papers</h2>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Personal Relative Position and Belief in Meritocracy</a>, 2025<br>
+     Personal Relative Position and Belief in Meritocracy</a><a style="font-size:15px;">, 2022</a><br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
