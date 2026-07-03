@@ -85,7 +85,7 @@ author_profile: true
 <h2 style="text-align:center;">Working Papers</h2>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Personal Relative Position and Belief in Meritocracy</a><a style="font-size:15px;">, 2022</a><br>
+     Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;">, 2022</span><br>
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
@@ -97,7 +97,7 @@ author_profile: true
 
 
 2. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Beyond the Margin: Targeted Conservation and Household Water Demand</a>, 2026<br>
+     Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;">, 2026</span><br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a><br>
@@ -107,7 +107,7 @@ author_profile: true
     </span>
 
 2. <a href="/files/APSS_Narratives.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Fooling Yourself: How Narratives Shape Beliefs</a>, 2026<br>
+     Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;">, 2026</span><br>
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
