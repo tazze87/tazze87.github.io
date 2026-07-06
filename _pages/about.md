@@ -112,6 +112,9 @@ author_profile: true
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
     and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a><br>
+         <a class="icon-link" href="https://github.com/paolopin/narrative-belief-updating" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
      <a class="icon-link" href="/video.html?src=/files/How_Narratives_Shape_Beliefs.mp4&title=Fooling%20Yourself" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
