@@ -96,7 +96,7 @@ author_profile: true
    </span>
 
 
-2. <a href="/files/Beyond the Margin_V1.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+2. <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;">, 2026</span><br>
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
