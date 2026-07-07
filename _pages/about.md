@@ -77,8 +77,8 @@ author_profile: true
       </a>
     </span>
 
-<br>
 
+<br>
 <h2 style="text-align:center;">Working Papers</h2>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
@@ -119,15 +119,11 @@ author_profile: true
 
 <br>
 <h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
+
 1. <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
-
-
-
-
-
 
 
 
