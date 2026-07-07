@@ -89,11 +89,10 @@ author_profile: true
      Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
-   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
+   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> *(New draft in preparation)*<br>
    <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
    </a>
-   <br>*(New draft in preparation)*
    </span>
 
 
