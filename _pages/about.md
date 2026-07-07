@@ -20,10 +20,6 @@ author_profile: true
       <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
-         <button
-  class="abstract-button" type="button" data-abstract="abs-unity" data-title="Unity Through Rivalry: How Competition Mitigates Social Dilemmas" aria-label="Read abstract" title="Abstract">
-  <i class="fas fa-align-left" aria-hidden="true"></i>
-</button>
     </span>  
 
 
@@ -142,85 +138,3 @@ author_profile: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<template id="abs-unity">
-  <p>
-    We study whether competition between groups that yields no material rewards fosters within-group cooperation. In a laboratory experiment, pairs of subjects played an indefinitely repeated Prisoner's Dilemma either in isolation or in a tournament against another pair, where winning conferred no monetary payoff. The competitive environment increased cooperation, and the effect strengthened over time as subjects gained experience. Exploiting the binary action space of the repeated game, we estimate participants' strategies and find that the tournament reallocates play away from strategies that start with defection toward strategies that start with cooperation. This reallocation results in a shift from Always Defect to the least risky cooperative strategy, Grim. We complement the experiment with a simple tournament-based model that
-shows how non-monetary competition can shift equilibrium selection toward cooperative strategies.
-  </p>
-</template>
-
-
-
-
-
-
-
-<dialog id="abstract-dialog" class="abstract-dialog">
-
-  <form method="dialog">
-    <button
-      class="abstract-close"
-      aria-label="Close abstract">
-      &times;
-    </button>
-  </form>
-  <h3 id="abstract-title"></h3>
-  <div id="abstract-body"></div>
-</dialog>
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  const dialog = document.getElementById("abstract-dialog");
-  const title = document.getElementById("abstract-title");
-  const body = document.getElementById("abstract-body");
-
-  document.querySelectorAll(".abstract-button").forEach(function (button) {
-
-    button.addEventListener("click", function () {
-
-      const abstractId = button.dataset.abstract;
-      const template = document.getElementById(abstractId);
-
-      title.textContent = button.dataset.title;
-      body.innerHTML = template.innerHTML;
-
-      dialog.showModal();
-    });
-
-  });
-
-  // Close when clicking outside the modal
-  dialog.addEventListener("click", function (event) {
-
-    const rect = dialog.getBoundingClientRect();
-
-    const outside =
-      event.clientX < rect.left ||
-      event.clientX > rect.right ||
-      event.clientY < rect.top ||
-      event.clientY > rect.bottom;
-
-    if (outside) {
-      dialog.close();
-    }
-
-  });
-
-});
-</script>
