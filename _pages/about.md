@@ -21,7 +21,7 @@ author_profile: true
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
          <button
-  class="abstract-button" type="button" data-abstract="abs-unity" data-title="Unity Through Rivalry: How Competition Mitigates Social Dilemmas" aria-label="Read abstract">
+  class="abstract-button" type="button" data-abstract="abs-unity" data-title="Unity Through Rivalry: How Competition Mitigates Social Dilemmas" aria-label="Read abstract" title="Abstract">
   <i class="fas fa-align-left" aria-hidden="true"></i>
 </button>
     </span>  
