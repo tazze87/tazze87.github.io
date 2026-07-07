@@ -67,6 +67,7 @@ author_profile: true
       <a class="icon-link" href="/video.html?src=/files/Cheaters_Is_Honesty_a_Stable_Trait.mp4&title=Individual%20Cheating%20in%20the%20Lab:%20A%20New%20Measure%20and%20External%20Validity" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
+    </span>
 
 
 4. <a href="/files/AMP-InfoAgg.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
