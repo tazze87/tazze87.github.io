@@ -106,7 +106,7 @@ author_profile: true
     </a>
     </span>
 
-2. <a href="/files/APSS_Narratives.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+2. <a href="https://arxiv.org/abs/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;">, 2026</span><br>
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
