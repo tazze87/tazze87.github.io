@@ -10,7 +10,7 @@ author_profile: true
 
 1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a>,
-     <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2026),</span> 
+     <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2026)</span>, 
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a>
     and <a href="https://scholar.google.com/citations?user=Rmg1qDgAAAAJ&hl=es" target="_blank" rel="noopener noreferrer">Sara Gil-Gallen</a><br>
@@ -25,8 +25,8 @@ author_profile: true
 
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Income Inequality and Social Trust
-   </a><br> 
-    <span style="font-size:15px;">**Economics Letters**, 2025</span><br>
+   </a>,
+    <span style="font-size:15px;">**Economics Letters** (2025)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
@@ -38,8 +38,8 @@ author_profile: true
 
 2. <a href="/files/APV-WelfareCompetition.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Welfare and Competition in Expert Advice Markets
-   </a><br>
-    <span style="font-size:15px;">**Journal of Economic Behavior and Organization**, 2024</span><br>
+   </a>,
+    <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2024)</span>,
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
       and <a href="https://www.fvaccari.com" target="_blank" rel="noopener noreferrer">Federico Vaccari</a><br>
@@ -54,8 +54,8 @@ author_profile: true
 
 3. <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Individual Cheating in the Lab: A New Measure and External Validity
-   </a><br>
-    <span style="font-size:15px;">**Theory and Decision**, 2022</span><br>
+   </a>,
+    <span style="font-size:15px;">**Theory and Decision** (2022)</span>,
     <span style="font-size:14px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
@@ -68,8 +68,8 @@ author_profile: true
 
 4. <a href="/files/AMP-InfoAgg.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Benchmarking Information Aggregation in Experimental Markets
-   </a><br>
-    <span style="font-size:15px;">**Economic Inquiry**, 2021</span><br>
+   </a>,
+    <span style="font-size:15px;">**Economic Inquiry** (2021)</span>,
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
     and <a href="https://sites.google.com/site/ronaldpeeters74" target="_blank" rel="noopener noreferrer">Ronald Peeters</a><br>
@@ -86,7 +86,7 @@ author_profile: true
 <h2 style="text-align:center;">Working Papers</h2>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;">, 2022</span><br>
+     Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
    and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a><br>
@@ -98,7 +98,7 @@ author_profile: true
 
 
 2. <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;">, 2026</span><br>
+     Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;"> (2026)</span>,
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
     and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a><br>
@@ -108,7 +108,7 @@ author_profile: true
     </span>
 
 2. <a href="https://arxiv.org/pdf/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;">, 2026</span><br>
+     Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;"> (2026)</span>,
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
@@ -124,7 +124,7 @@ author_profile: true
 
 <br>
 <h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
-1. <span style="font-size:15px;">Cheating and Competition</span><br>
+1. <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
