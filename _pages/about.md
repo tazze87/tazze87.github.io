@@ -24,8 +24,7 @@ author_profile: true
 
 
 1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Income Inequality and Social Trust
-   </a>,
+     Income Inequality and Social Trust</a>,
     <span style="font-size:15px;">**Economics Letters** (2025)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
@@ -37,8 +36,7 @@ author_profile: true
 
 
 2. <a href="/files/APV-WelfareCompetition.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Welfare and Competition in Expert Advice Markets
-   </a>,
+     Welfare and Competition in Expert Advice Markets</a>,
     <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2024)</span>,
     <span style="font-size:14px;">
       with <a href="https://matteoploner.eco.unitn.it" target="_blank" rel="noopener noreferrer">Matteo Ploner</a>
@@ -53,8 +51,7 @@ author_profile: true
 
 
 3. <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Individual Cheating in the Lab: A New Measure and External Validity
-   </a>,
+     Individual Cheating in the Lab: A New Measure and External Validity</a>,
     <span style="font-size:15px;">**Theory and Decision** (2022)</span>,
     <span style="font-size:14px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
@@ -67,8 +64,7 @@ author_profile: true
 
 
 4. <a href="/files/AMP-InfoAgg.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Benchmarking Information Aggregation in Experimental Markets
-   </a>,
+     Benchmarking Information Aggregation in Experimental Markets</a>,
     <span style="font-size:15px;">**Economic Inquiry** (2021)</span>,
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a>
