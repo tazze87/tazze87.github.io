@@ -20,10 +20,10 @@ author_profile: true
       <a class="icon-link" href="/video.html?src=/files/The_Enemy_of_My_Enemy.mp4&title=Unity%20Through%20Rivalry" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
-         <button
+         <a
   class="abstract-button" type="button" data-abstract="abs-unity" data-title="Unity Through Rivalry: How Competition Mitigates Social Dilemmas" aria-label="Read abstract">
   <i class="fas fa-align-left" aria-hidden="true"></i>
-</button>
+</a>
     </span>  
 
 
