@@ -52,7 +52,7 @@ author_profile: true
 
 3. <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Individual Cheating in the Lab: A New Measure and External Validity</a>,
-    <span style="font-size:15px;">**Theory and Decision** (2022)</span>
+    <span style="font-size:15px;">**Theory and Decision** (2022)</span><br>
     <span style="font-size:14px;">
     <a class="icon-link" href="https://github.com/tazze87/tazze87.github.io/tree/master/files/dataAA_cheating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
