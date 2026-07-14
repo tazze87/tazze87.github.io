@@ -81,7 +81,7 @@ author_profile: true
 <br>
 <h2 style="text-align:center;">Working Papers</h2>
 
-1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
@@ -92,7 +92,7 @@ author_profile: true
    </span>
 
 
-2. <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;"> (2026)</span>,
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
@@ -102,7 +102,7 @@ author_profile: true
     </a>
     </span>
 
-2. <a href="https://arxiv.org/pdf/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="https://arxiv.org/pdf/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;"> (2026)</span>,
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
@@ -120,7 +120,7 @@ author_profile: true
 <br>
 <h2 style="text-align:center;">Work in Progress <small>(data collected)</small></h2>
 
-1. <span style="font-size:15px;">Cheating and Competition</span>
+- <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
