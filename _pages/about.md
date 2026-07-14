@@ -8,7 +8,7 @@ author_profile: true
 
 <h2 style="text-align:center;">Publications</h2>
 
-1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a>,
      <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2026)</span>, 
     <span style="font-size:14px;">
@@ -23,7 +23,7 @@ author_profile: true
     </span>  
 
 
-1. <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="/files/ALM_Inequality_Trust.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Income Inequality and Social Trust</a>,
     <span style="font-size:15px;">**Economics Letters** (2025)</span>,
     <span style="font-size:14px;">
@@ -35,7 +35,7 @@ author_profile: true
    </span>
 
 
-2. <a href="/files/APV-WelfareCompetition.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="/files/APV-WelfareCompetition.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Welfare and Competition in Expert Advice Markets</a>,
     <span style="font-size:15px;">**Journal of Economic Behavior and Organization** (2024)</span>,
     <span style="font-size:14px;">
@@ -50,7 +50,7 @@ author_profile: true
     </span>
 
 
-3. <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="/files/A-CheatingLabvField.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Individual Cheating in the Lab: A New Measure and External Validity</a>,
     <span style="font-size:15px;">**Theory and Decision** (2022)</span><br>
     <span style="font-size:14px;">
@@ -63,7 +63,7 @@ author_profile: true
     </span>
 
 
-4. <a href="/files/AMP-InfoAgg.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+- <a href="/files/AMP-InfoAgg.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Benchmarking Information Aggregation in Experimental Markets</a>,
     <span style="font-size:15px;">**Economic Inquiry** (2021)</span>,
     <span style="font-size:14px;">
