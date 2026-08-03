@@ -5,7 +5,7 @@ title: '<div style="text-align:center;">Post Doctoral Fellow <small>in Economics
 author_profile: true
 ---
 
-I hold the National Scientific Qualification (ASN) as Associate Professor (Sector 13/A1)
+<div style="text-align:center;"><small>I hold the National Scientific Qualification (ASN) as Associate Professor (Sector 13/A1)</small></div>
 
 <h2 style="text-align:center;">Publications</h2>
 
