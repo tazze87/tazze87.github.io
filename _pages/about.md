@@ -8,7 +8,7 @@ author_profile: true
 <div style="text-align:left;"><small>I am a Post Doctoral Fellow in Economics. My research is in behavioral and experimental economics.<br>
      I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</small></div>
 
-<h2 style="text-align:center;">Publications</h2>
+<h3 style="text-align:center;">Publications</h3>
 
 1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a>,
