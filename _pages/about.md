@@ -1,11 +1,11 @@
 ---
 layout: single
 permalink: /
-title: '<div style="text-align:center;"><small>Bio</small></div>'
+title: '<h3 style="text-align:center;">Bio</h3>'
 author_profile: true
 ---
 
-<div style="text-align:left;"><small>     I am a Post Doctoral Fellow in Economics. My research is in behavioral and experimental economics.<br>
+<div style="text-align:center;"><small>I am a Post Doctoral Fellow in Economics. My research is in behavioral and experimental economics.<br>
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</small></div>
 
 <h3 style="text-align:center;">Publications</h3>
