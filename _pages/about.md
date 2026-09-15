@@ -88,7 +88,7 @@ author_profile: true
      Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
     <span style="font-size:14px;">
     with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
-   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> *(New draft in preparation)*<br>
+   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> [New draft in preparation]<br>
    <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
    </a>
@@ -99,7 +99,7 @@ author_profile: true
      Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;"> (2026)</span>,
     <span style="font-size:14px;">
     with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
-    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a> *(Submitted)*<br>
+    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a> [Submitted]<br>
     <a class="icon-link" href="/video.html?src=/files/Taming_the_Tap.mp4&title=Beyond%20The%20Margin:%20Targeted%20Conservation%20and%20Household%20Water%20Demand" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-play-circle" aria-hidden="true"></i>
     </a>
@@ -110,7 +110,7 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
-    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a> *(Submitted)*<br>
+    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a> [Submitted]<br>
          <a class="icon-link" href="https://github.com/paolopin/narrative-belief-updating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
