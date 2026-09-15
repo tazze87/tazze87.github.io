@@ -119,7 +119,6 @@ author_profile: true
     </span>
 
 
-<br>
 <h3 style="text-align:center;">Work in Progress <small>(data collected)</small></h3>
 
 1. <span style="font-size:15px;">Cheating and Competition</span>
