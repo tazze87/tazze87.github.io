@@ -5,7 +5,7 @@ title: '<h3 style="text-align:center;">Bio</h3>'
 author_profile: true
 ---
 
-<div style="text-align:center;">I am a Post Doctoral Fellow in Economics. My research is in behavioural and experimental economics.<br>
+<div style="text-align:center; font-size:15px;">I am a Post Doctoral Fellow in Economics. My research is in behavioural and experimental economics.<br>
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
 <h3 style="text-align:center;">Publications</h3>
