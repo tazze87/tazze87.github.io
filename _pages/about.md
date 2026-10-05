@@ -8,7 +8,11 @@ author_profile: true
 <div style="text-align:center; font-size:15px;">I am a Post Doctoral Fellow in Economics. My research is in behavioural and experimental economics.<br>
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
-<h3 style="text-align:center;">--- Publications ---</h3>
+<h3 style="text-align:center;">
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-right:10px;"></span>
+  Publications
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-left:10px;"></span>
+</h3>
 
 1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Unity Through Rivalry: How Competition Mitigates Social Dilemmas</a>,
@@ -81,7 +85,11 @@ author_profile: true
 
 
 
-<h3 style="text-align:center;">--- Working Papers ---</h3>
+<h3 style="text-align:center;">
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-right:10px;"></span>
+  Working Papers
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-left:10px;"></span>
+</h3>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
@@ -119,7 +127,11 @@ author_profile: true
     </span>
 
 
-<h3 style="text-align:center;">--- Work in Progress <small>(data collected)</small> ---</h3>
+<h3 style="text-align:center;">
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-right:10px;"></span>
+  Work in Progress <small>(data collected)</small>
+  <span style="display:inline-block; width:35px; border-top:2px solid #333; vertical-align:middle; margin-left:10px;"></span>
+</h3>
 
 1. <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
