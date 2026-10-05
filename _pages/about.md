@@ -54,10 +54,10 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
-<br>
 
 
-<h3 style="text-align:center;">
+
+<h3 style="text-align:center;"><br>
   <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
   Publications
   <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
