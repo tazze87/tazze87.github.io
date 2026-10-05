@@ -8,6 +8,55 @@ author_profile: true
 <div style="text-align:center; font-size:15px;">I am a Post Doctoral Fellow in Economics at IMT School for Advanced Studies Lucca. My research is in behavioural and experimental economics.<br>
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
+<br>
+<h3 style="text-align:center;">
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
+  Work in Progress
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+</h3>
+
+1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+     Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
+    <span style="font-size:14px;">
+    with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
+   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> [New draft in preparation]<br>
+   <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+   </a>
+   </span>
+
+
+1. <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+     Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;"> (2026)</span>,
+    <span style="font-size:14px;">
+    with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
+    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a><br>
+    <a class="icon-link" href="/video.html?src=/files/Taming_the_Tap.mp4&title=Beyond%20The%20Margin:%20Targeted%20Conservation%20and%20Household%20Water%20Demand" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+    </a>
+    </span>
+
+1. <a href="https://arxiv.org/pdf/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
+     Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;"> (2026)</span>,
+    <span style="font-size:14px;">
+    with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
+    <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
+    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a><br>
+         <a class="icon-link" href="https://github.com/paolopin/narrative-belief-updating" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-folder-open" aria-hidden="true"></i>
+      </a>
+     <a class="icon-link" href="/video.html?src=/files/How_Narratives_Shape_Beliefs.mp4&title=Fooling%20Yourself" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-play-circle" aria-hidden="true"></i>
+      </a>
+    </span>
+
+1. <span style="font-size:15px;">Cheating and Competition</span>
+    <span style="font-size:14px;">
+    with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
+    </span>
+<br>
+
+
 <h3 style="text-align:center;">
   <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
   Publications
@@ -82,62 +131,6 @@ author_profile: true
         <i class="fas fa-play-circle" aria-hidden="true"></i>
       </a>
     </span>
-
-
-
-<h3 style="text-align:center;">
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
-  Working Papers
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
-</h3>
-
-1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
-    <span style="font-size:14px;">
-    with <a href="http://www.patricklown.com" target="_blank" rel="noopener noreferrer">Patrick Lown</a>
-   and <a href="https://sites.google.com/site/friederikemengel/home?authuser=0" target="_blank" rel="noopener noreferrer">Friederike Mengel</a> [New draft in preparation]<br>
-   <a class="icon-link" href="/video.html?src=/files/The_Meritocracy_Puzzle.mp4&title=Personal%20Relative%20Position%20and%20Belief%20in%20Meritocracy" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-play-circle" aria-hidden="true"></i>
-   </a>
-   </span>
-
-
-1. <a href="https://arxiv.org/pdf/2606.23347" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Beyond the Margin: Targeted Conservation and Household Water Demand</a><span style="font-size:15px;"> (2026)</span>,
-    <span style="font-size:14px;">
-    with <a href="https://sites.google.com/view/elisabettaleni/home" target="_blank" rel="noopener noreferrer">Elisabetta Leni</a>
-    and <a href="https://sites.google.com/site/enniobilancini/home" target="_blank" rel="noopener noreferrer">Ennio Bilancini</a><br>
-    <a class="icon-link" href="/video.html?src=/files/Taming_the_Tap.mp4&title=Beyond%20The%20Margin:%20Targeted%20Conservation%20and%20Household%20Water%20Demand" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-play-circle" aria-hidden="true"></i>
-    </a>
-    </span>
-
-1. <a href="https://arxiv.org/pdf/2607.04753" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
-     Fooling Yourself: How Narratives Shape Beliefs</a><span style="font-size:15px;"> (2026)</span>,
-    <span style="font-size:14px;">
-    with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
-    <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
-    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a><br>
-         <a class="icon-link" href="https://github.com/paolopin/narrative-belief-updating" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-folder-open" aria-hidden="true"></i>
-      </a>
-     <a class="icon-link" href="/video.html?src=/files/How_Narratives_Shape_Beliefs.mp4&title=Fooling%20Yourself" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-play-circle" aria-hidden="true"></i>
-      </a>
-    </span>
-
-
-<h3 style="text-align:center;">
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
-  Work in Progress <small>(data collected)</small>
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
-</h3>
-
-1. <span style="font-size:15px;">Cheating and Competition</span>
-    <span style="font-size:14px;">
-    with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
-    </span>
-
 
 
 
