@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: '<h3 style="text-align:center;">Bio</h3>'
+title: '<h3 style="text-align:center;">--- Bio ---</h3>'
 author_profile: true
 ---
 
@@ -81,7 +81,7 @@ author_profile: true
 
 
 
-<h3 style="text-align:center;">Working Papers</h3>
+<h3 style="text-align:center;">--- Working Papers ---</h3>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
      Personal Relative Position and Belief in Meritocracy</a><span style="font-size:15px;"> (2022)</span>,
@@ -119,7 +119,7 @@ author_profile: true
     </span>
 
 
-<h3 style="text-align:center;">Work in Progress <small>(data collected)</small></h3>
+<h3 style="text-align:center;">--- Work in Progress <small>(data collected) ---</small></h3>
 
 1. <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
