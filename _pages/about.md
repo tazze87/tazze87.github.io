@@ -9,9 +9,9 @@ author_profile: true
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
 <h3 style="text-align:center;">
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
   Publications
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
 </h3>
 
 1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
@@ -86,9 +86,9 @@ author_profile: true
 
 
 <h3 style="text-align:center;">
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
   Working Papers
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
 </h3>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
@@ -128,9 +128,9 @@ author_profile: true
 
 
 <h3 style="text-align:center;">
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
   Work in Progress <small>(data collected)</small>
-  <span style="display:inline-block; width:40px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
 </h3>
 
 1. <span style="font-size:15px;">Cheating and Competition</span>
