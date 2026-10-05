@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: '<h3 style="text-align:center;">--- Bio ---</h3>'
+title: '<h3 style="text-align:center;">Bio</h3>'
 author_profile: true
 ---
 
