@@ -8,8 +8,8 @@ author_profile: true
 <div style="text-align:center; font-size:15px;">I am a Post Doctoral Fellow in Economics at IMT School for Advanced Studies Lucca. My research is in behavioural and experimental economics.<br>
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
-<br>
-<h3 style="display:flex; align-items:center; text-align:center; gap:20px;">
+
+<h3 style="display:flex; align-items:center; text-align:center; gap:20px; margin-top:4em;">
   <span style="flex:1; border-top:1px solid;"></span>
   <span>Work in Progress</span>
   <span style="flex:1; border-top:1px solid;"></span>
@@ -54,10 +54,12 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
     </span>
-<br>
 
 
-<h3 style="display:flex; align-items:center; text-align:center; gap:20px; margin-top:2em;">
+
+
+
+<h3 style="display:flex; align-items:center; text-align:center; gap:20px; margin-top:4em;">
   <span style="flex:1; border-top:1px solid;"></span>
   <span>Publications</span>
   <span style="flex:1; border-top:1px solid;"></span>
