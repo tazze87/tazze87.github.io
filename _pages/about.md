@@ -9,7 +9,7 @@ author_profile: true
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
 
-<h3 style="display:flex; align-items:center; text-align:center; gap:20px; margin-top:4em;">
+<h3 style="display:flex; align-items:center; text-align:center; gap:30px; margin-top:4em;">
   <span style="flex:1; border-top:1px solid;"></span>
   <span>Work in Progress</span>
   <span style="flex:1; border-top:1px solid;"></span>
@@ -59,7 +59,7 @@ author_profile: true
 
 
 
-<h3 style="display:flex; align-items:center; text-align:center; gap:20px; margin-top:4em;">
+<h3 style="display:flex; align-items:center; text-align:center; gap:30px; margin-top:4em;">
   <span style="flex:1; border-top:1px solid;"></span>
   <span>Publications</span>
   <span style="flex:1; border-top:1px solid;"></span>
