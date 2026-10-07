@@ -9,10 +9,10 @@ author_profile: true
           I hold the <b>National Scientific Qualification (ASN)</b> as Associate Professor (Sector 13/A1)</div>
 
 <br>
-<h3 style="text-align:center;">
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
-  Work in Progress
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+<h3 style="display:flex; align-items:center; text-align:center; gap:15px;">
+  <span style="flex:1; border-top:1px solid;"></span>
+  <span>Work in Progress</span>
+  <span style="flex:1; border-top:1px solid;"></span>
 </h3>
 
 1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789067" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
@@ -57,10 +57,10 @@ author_profile: true
 
 
 
-<h3 style="text-align:center;"><br>
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-right:10px;"></span>
-  Publications
-  <span style="display:inline-block; width:45px; border-top:1px solid; vertical-align:middle; margin-left:10px;"></span>
+<h3 style="display:flex; align-items:center; text-align:center; gap:15px; margin-top:2em;">
+  <span style="flex:1; border-top:1px solid;"></span>
+  <span>Publications</span>
+  <span style="flex:1; border-top:1px solid;"></span>
 </h3>
 
 1. <a href="/files/SAG_enemy_of_my_enemy.pdf" target="_blank" rel="noopener noreferrer" style="font-size:15px;">
