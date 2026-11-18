@@ -41,7 +41,7 @@ author_profile: true
     <span style="font-size:14px;">
     with <a href="https://www.paolopin.com" target="_blank" rel="noopener noreferrer">Paolo Pin</a>,
     <a href="https://sites.google.com/view/marcostimolo/home" target="_blank" rel="noopener noreferrer">Marco Stimolo</a>,
-    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a> [New draft in preparation]<br>
+    and <a href="https://sites.google.com/view/alessandrostringhi" target="_blank" rel="noopener noreferrer">Alessandro Stringhi</a> [New draft]<br>
          <a class="icon-link" href="https://github.com/paolopin/narrative-belief-updating" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-folder-open" aria-hidden="true"></i>
       </a>
