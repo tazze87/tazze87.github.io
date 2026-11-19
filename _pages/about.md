@@ -52,7 +52,7 @@ author_profile: true
 
 1. <span style="font-size:15px;">Cheating and Competition</span>
     <span style="font-size:14px;">
-    with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a>
+    with <a href="https://scholar.google.com/citations?hl=en&user=esqNgnEAAAAJ" target="_blank" rel="noopener noreferrer">Elke Weidenholzer</a> [Draft in preparation]
     </span>
 
 
